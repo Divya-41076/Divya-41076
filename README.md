@@ -83,9 +83,7 @@ Backend Software Engineer focused on building scalable, secure, and production-r
 
 ---
 
-### ⚡️ GitHub Stats
-
-<br/>
+<!-- <br/>
 
 <div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Divya-41076&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Divyashree's GitHub Stats" />
@@ -93,6 +91,17 @@ Backend Software Engineer focused on building scalable, secure, and production-r
 </div>
 <div align="center">
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Divya-41076&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Divyashree's Top Languages" />
+</div> -->
+### ⚡ GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Divya-41076&show_icons=true&theme=tokyonight&hide_border=true" />
+
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-41076&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divya-41076&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
