@@ -1,7 +1,7 @@
 <!-- Visitor Counter -->
-<div align="center">
+<!-- <div align="center">
   <img src="https://profile-counter.glitch.me/Divya-41076/count.svg" alt="Visitor Count" />
-</div>
+</div> -->
 
 <!-- Animated Header -->
 <p align="center">
@@ -15,17 +15,25 @@
 
 ---
 
-### 👩‍💻 About Me
+## 👋 About Me
 
-```yaml
-name        : Divyashree H
-location    : Bengaluru, India 🇮🇳
-education   : B.Tech CSE @ JAIN University (2022–2026) | CGPA: 9.4
-role        : Backend-focused Software Engineer & Open Source Enthusiast
-focus       : Scalable APIs · Async Systems · AI-powered Backends · Cloud Infrastructure
-currently   : Building production-ready backend platforms with FastAPI, PostgreSQL & AWS
-interests   : System Design · Distributed Systems · Multi-tenant SaaS · LLM Integration
-```
+Backend Software Engineer focused on building scalable, secure, and production-ready applications.
+
+🎓 B.Tech in Computer Science @ JAIN University (CGPA: 9.4)
+
+💻 I enjoy designing backend systems, developing RESTful APIs, optimizing databases, and building cloud-native applications that solve real-world problems.
+
+🚀 My core interests include:
+
+* Backend Engineering
+* Distributed Systems
+* System Design
+* Cloud Infrastructure
+* AI-Powered Applications
+
+⚡ Currently building high-performance platforms using FastAPI, PostgreSQL, Docker, AWS, and modern software engineering practices.
+
+💡 Open to Software Engineering, Backend Engineering, and Platform Engineering opportunities.
 
 ---
 
