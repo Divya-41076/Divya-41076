@@ -86,25 +86,13 @@ Backend Software Engineer focused on building scalable, secure, and production-r
 ### ⚡ GitHub Stats
 <br/>
 
-<div align="center">
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Divya-41076&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Divyashree's GitHub Stats" />
+<!-- <div align="center">
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=Divya-41076&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Divyashree's GitHub Stats" /> -->
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-41076&theme=transparent&count_private=true&border_radius=10&locale=en" alt="Divyashree's Streak" />
 </div>
-<div align="center">
+<!-- <div align="center">
   <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Divya-41076&theme=transparent&layout=donut&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Divyashree's Top Languages" />
-</div> 
-
-📊 GitHub Statistics
-<div align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=Divya-41076&theme=vue&hide_border=true" alt="GitHub Streak" />
-</div>
-<div align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divya-41076&theme=vue&hide_border=true" alt="Profile Details" />
-</div>
-<div align="center">
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Divya-41076&theme=vue&hide_border=true" alt="Repos Per Language" />
-  <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Divya-41076&theme=vue&hide_border=true" alt="Most Commit Language" />
-</div>
+</div>  -->
 
 ---
 
